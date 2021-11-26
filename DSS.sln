@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSS", "DSS\DSS.csproj", "{FE8F4457-BCB2-4F01-A397-2D1A6016932F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8F4457-BCB2-4F01-A397-2D1A6016932F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8F4457-BCB2-4F01-A397-2D1A6016932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8F4457-BCB2-4F01-A397-2D1A6016932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8F4457-BCB2-4F01-A397-2D1A6016932F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E793CF4E-84C4-41D9-8E28-96AECBEE6599}
+	EndGlobalSection
+EndGlobal
